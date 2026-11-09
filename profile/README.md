@@ -12,7 +12,7 @@ Transformamos ideias em produtos digitais que funcionam, escalam e geram resulta
 
 [![Site](https://img.shields.io/badge/Site-grupodeleaders.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grupodeleaders.com)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale_conosco-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:groupofleaderss@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Siga-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuperfil)
+[![Instagram](https://img.shields.io/badge/Instagram-Siga-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grupofleaders)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/seuperfil)
 
 </div>
