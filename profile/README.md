@@ -4,18 +4,16 @@
 
 <br />
 
-# Group of Leaders
-
 **Tecnologia, estratégia e experiências digitais.**
 
 Transformamos ideias em produtos digitais que funcionam, escalam e geram resultado.
 
 <br />
 
-[![Site](https://img.shields.io/badge/Site-grupodeleaders.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seusite.com)
-[![E-mail](https://img.shields.io/badge/E--mail-Fale_conosco-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:groupofleaders@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Siga-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuperfil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/seuperfil)
+[![Site](https://img.shields.io/badge/Site-grupodeleaders.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grupodeleaders.com)
+[![E-mail](https://img.shields.io/badge/E--mail-Fale_conosco-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:groupofleaderss@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Siga-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuperfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/seuperfil)
 
 </div>
 
@@ -23,19 +21,35 @@ Transformamos ideias em produtos digitais que funcionam, escalam e geram resulta
 
 ## 🚀 O que fazemos
 
-| | Serviço | Para quem |
-|---|---|---|
-| 🌐 | **Sites e Landing Pages** | Empresas que querem vender e ser encontradas |
-| ⚙️ | **Sistemas sob medida** | Negócios que precisam automatizar processos |
-| 📱 | **Plataformas e Produtos Digitais** | Quem quer tirar uma ideia do papel |
+<table width="100%">
+  <tr>
+    <td width="60" align="center">🌐</td>
+    <td><b>Sites e Landing Pages</b></td>
+    <td>Empresas que querem vender e ser encontradas</td>
+  </tr>
+  <tr>
+    <td align="center">⚙️</td>
+    <td><b>Sistemas sob medida</b></td>
+    <td>Negócios que precisam automatizar processos</td>
+  </tr>
+  <tr>
+    <td align="center">📱</td>
+    <td><b>Plataformas e Produtos Digitais</b></td>
+    <td>Quem quer tirar uma ideia do papel</td>
+  </tr>
+</table>
 
 ---
 
 ## 🧠 Como trabalhamos
 
+<div align="center">
+
 `Entender` → `Planejar` → `Desenhar` → `Desenvolver` → `Evoluir`
 
-> Todo projeto começa pelo problema, não pela tecnologia.
+*Todo projeto começa pelo problema, não pela tecnologia.*
+
+</div>
 
 ---
 
@@ -53,29 +67,39 @@ Transformamos ideias em produtos digitais que funcionam, escalam e geram resulta
 
 </div>
 
-> ✏️ Ajuste para as tecnologias que vocês realmente usam.
-
 ---
 
 ## 📂 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Nome do projeto**](link) | Uma linha dizendo o que resolve | `Next.js` `Supabase` |
-| [**Nome do projeto**](link) | Uma linha dizendo o que resolve | `React` `Node.js` |
-| [**Nome do projeto**](link) | Uma linha dizendo o que resolve | `TypeScript` |
+<table width="100%">
+  <tr>
+    <th align="left">Projeto</th>
+    <th align="left">O que resolve</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Group-of-Leaders/As-Tartarugas"><b>As Tartarugas</b></a></td>
+    <td>Uma linha dizendo o que o projeto faz</td>
+    <td><code>TypeScript</code></td>
+  </tr>
+  <tr>
+    <td><a href="#"><b>Nome do projeto</b></a></td>
+    <td>Uma linha dizendo o que o projeto faz</td>
+    <td><code>Next.js</code> <code>Supabase</code></td>
+  </tr>
+</table>
 
-👉 Explore todos os repositórios na aba **Repositories**.
+👉 Veja todos na aba **Repositories**.
 
 ---
+
+<div align="center">
 
 ## 💬 Vamos conversar?
 
 Tem uma ideia, um problema ou um projeto parado? Fale com a gente.
 
-📩 **groupofleaders@gmail.com**
-
-<div align="center">
+📩 **groupofleaderss@gmail.com**
 
 <br />
 
