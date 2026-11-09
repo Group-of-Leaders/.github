@@ -1,3 +1,6 @@
+![Group of Leaders](./assets/banner.png)
+
+
 # GROUP OF LEADERS
 
 ### Tecnologia, estratégia e experiências digitais.
